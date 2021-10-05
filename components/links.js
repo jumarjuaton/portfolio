@@ -22,7 +22,7 @@ const links = [
     { 
          id: 4,
          icon: <i className="fi-xtluxl-file-pdf"></i>,
-         url: '/Resume-Jumar-James-Juaton.pdf', 
+         url: '/files/pdf/Resume-Jumar-James-Juaton.pdf', 
          info: 'View my CV!' 
     },
 ]
